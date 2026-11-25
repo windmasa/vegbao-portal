@@ -90,35 +90,6 @@ window.portalConfig = {
             ]
         ],
         [
-            "新聞",
-            [
-                [
-                    "中央社",
-                    "https://www.cna.com.tw/"
-                ],
-                [
-                    "公視",
-                    "https://news.pts.org.tw/"
-                ],
-                [
-                    "華視",
-                    "https://news.cts.com.tw/"
-                ],
-                [
-                    "報導者",
-                    "https://www.twreporter.org/"
-                ],
-                [
-                    "地球圖輯",
-                    "https://dq.yam.com/"
-                ],
-                [
-                    "轉角國際",
-                    "https://global.udn.com/"
-                ]
-            ]
-        ],
-        [
             "影視",
             [
                 [
